@@ -1,4 +1,8 @@
-# Neural_Network_HW_Accelerator
+#Deep Reinforcement Learning-based Autonomous Parking Design with Neural Network Compute Accelerators
+
+
+
+## Neural_Network_HW_Accelerator
 Fully-Connected Neural Network Hardware Accelerator
 
 
@@ -29,3 +33,29 @@ When generate bitstream finished, export hardware (include bitstream should be m
 1. Create new Hello World application project in SDK.
 2. Replace the contents of the Hello world project with SDK/main.c
 3. Ready to run.
+
+
+
+
+## Publication
+
+- A. Özeloğlu and İ. San, "Acceleration of Neural Network Training on Hardware via HLS for an Edge-AI Device," 2020 Innovations in Intelligent Systems and Applications Conference (ASYU), Istanbul, Turkey, 2020, pp. 1-6, Oct 2020. [Paper](https://ieeexplore.ieee.org/abstract/document/9259845)
+
+- A. Özeloğlu, İ. G. Gürbüz and İ. San, "Deep Reinforcement Learning-based Autonomous Parking Design
+with Neural Network Compute Accelerators," submitted, Feb 2021. [Paper](under review)
+
+## Contact
+
+Alican Özeloğlu <br />
+Department of Electrical and Electronics Engineering <br />
+alican.ozeloglu@tubitak.gov.tr <br />
+
+İsmihan Gül Gürbüz <br />
+Department of Electrical and Electronics Engineering <br />
+gul.gurbuz@tubitak.gov.tr <br />
+
+İsmail San <br />
+Department of Electrical and Electronics Engineering <br />
+Eskisehir Technial University <br />
+isan83@gmail.com <br />
+https://akademik.eskisehir.edu.tr/isan <br />
